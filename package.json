@@ -280,7 +280,7 @@
     "@eslint/js": "^9.39.3",
     "@github/markdownlint-github": "^0.6.3",
     "@graphql-inspector/core": "^7.1.2",
-    "@graphql-tools/load": "^8.1.8",
+    "@graphql-tools/load": "^8.1.19",
     "@octokit/rest": "22.0.0",
     "@playwright/test": "^1.60.0",
     "@types/accept-language-parser": "1.5.7",
