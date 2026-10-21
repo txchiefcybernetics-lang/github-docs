@@ -361,7 +361,7 @@
     "cheerio": {
       "undici": "^7.28.0"
     },
-    "markdown-it": "^14.2.0"
+    "markdown-it": "^14.3.3"
   },
   "optionalDependencies": {
     "esm": "^3.2.25"
